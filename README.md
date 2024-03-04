@@ -9,3 +9,4 @@ You can click the settings icon in the app bar to go to the SettingsPage.
 The SettingsPage allows you to toggle the app's theme using a Switch widget.
 You can click on currency icon in the appbar to go to the CurrencyPage.
 The CurrencyPage representing currency exchange information for different currencies.
+showNetworkStatusSnackBar method is intended to inform the user about the network status, specifically when there is no internet connection.
